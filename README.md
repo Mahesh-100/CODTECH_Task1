@@ -5,7 +5,7 @@ Documentation for SimpleCalculator.java
 The Calculator program is a simple Java application that allows users to perform basic arithmetic operations (addition, subtraction, multiplication, division) as well as exponentiation.
 It provides a user-friendly interface where users can input numbers and select the desired operation. Additionally, the program includes error handling to prevent division by zero.
 
-3. Installation:
+2. Installation:
    
 To run the Calculator program:
 1.Ensure you have Java Development Kit (JDK) installed on your system.
@@ -15,7 +15,7 @@ To run the Calculator program:
 5.Compile the program using the command: 'javac SimpleCalculator.java'
 6.Run the program using the command: 'java SimpleCalculator'
 
-5. Code Explanation:
+3. Code Explanation:
    
 Main Class: SimpleCalculator
 The main class Calculator controls the flow of the program. It includes a main method where user interactions are handled using a Scanner object.
@@ -106,7 +106,9 @@ The result of the calculation is displayed in the textfield.
 
 
 
-Screenshots
+Screenshots:
+
+
 ![calc](https://github.com/Mahesh-100/CODTECH_Task1/assets/124244425/fee5f3f6-0b7b-4088-a5bf-282d5b490c32)
 
 Conclusion:
