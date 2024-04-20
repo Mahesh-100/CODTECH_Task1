@@ -1,6 +1,22 @@
 import java.util.Scanner;
 
+/**
+ * SimpleCalculator class implements a basic calculator with arithmetic operations.
+ */
 public class SimpleCalculator {
+
+    /**
+     * Main method to run the calculator program.
+     * @param args Command-line arguments (not used)
+     */
+
+     /**
+     * Default constructor for SimpleCalculator class.
+     * This constructor is provided automatically if no other constructors are defined explicitly.
+     */
+    public SimpleCalculator() {
+        // Default constructor
+    }
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         boolean quit = false;
