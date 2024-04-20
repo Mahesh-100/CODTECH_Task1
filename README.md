@@ -8,12 +8,12 @@ It provides a user-friendly interface where users can input numbers and select t
 2. Installation:
    
 To run the Calculator program:
-1.Ensure you have Java Development Kit (JDK) installed on your system.
-2.Download the Calculator.java file.
-3.Open a command prompt or terminal.
-4.Navigate to the directory containing the Calculator.java file.
-5.Compile the program using the command: 'javac SimpleCalculator.java'
-6.Run the program using the command: 'java SimpleCalculator'
+1. Ensure you have Java Development Kit (JDK) installed on your system.
+2. Download the Calculator.java file.
+3. Open a command prompt or terminal.
+4. Navigate to the directory containing the Calculator.java file.
+5. Compile the program using the command: 'javac SimpleCalculator.java'
+6. Run the program using the command: 'java SimpleCalculator'
 
 3. Code Explanation:
    
@@ -67,34 +67,34 @@ The Calculator program is a basic calculator application implemented in Java usi
 
 Features:
 
-1.Addition, subtraction, multiplication, and division operations.
+1. Addition, subtraction, multiplication, and division operations.
 
-2.Decimal point support for floating-point numbers
+2. Decimal point support for floating-point numbers
 
-3.Clear and delete functionality for input correction
+3. Clear and delete functionality for input correction
 
-4.Ability to toggle the sign of the displayed number
+4. Ability to toggle the sign of the displayed number
 
-5.Exponential operation (added as per the latest modification)
+5. Exponential operation (added as per the latest modification)
 
 User Interface:
 The user interface consists of the following components:
 
-1.Textfield: Displays the input numbers and the result of calculations.
+1. Textfield: Displays the input numbers and the result of calculations.
 
-2.Number Buttons: Allow the user to input numerical digits.
+2. Number Buttons: Allow the user to input numerical digits.
 
-3.Function Buttons: Perform arithmetic operations and other functions.
+3. Function Buttons: Perform arithmetic operations and other functions.
 
-4.Clear (CLR) Button: Clears the textfield.
+4. Clear (CLR) Button: Clears the textfield.
 
-5.Delete (DEL) Button: Deletes the last entered digit.
+5. Delete (DEL) Button: Deletes the last entered digit.
 
-6.Negative (NEG) Button: Toggles the sign of the displayed number.
+6. Negative (NEG) Button: Toggles the sign of the displayed number.
 
-7.Decimal (DEC) Button: Adds a decimal point to the displayed number.
+7. Decimal (DEC) Button: Adds a decimal point to the displayed number.
 
-8.Exponential (EXP) Button: Performs exponentiation.
+8. Exponential (EXP) Button: Performs exponentiation.
 
 Code Explanation
 The code is structured into several parts:
