@@ -52,9 +52,10 @@ The program includes an option to quit, which terminates the program loop when s
 
 ![sc4](https://github.com/Mahesh-100/CODTECH_Task1/assets/124244425/27027a65-169c-46e4-80df-f3ecd4085c96)
 
-6. Conclusion:
+5. Conclusion:
 
 The Calculator program provides a simple yet functional tool for performing arithmetic calculations.
+
 With its user-friendly interface and error handling capabilities, it ensures a seamless user experience. Further enhancements could include additional mathematical functions and a more polished user interface.
 <==================================================================>
 
@@ -65,22 +66,34 @@ Introduction:
 The Calculator program is a basic calculator application implemented in Java using the Swing framework. It provides a user-friendly interface for performing arithmetic calculations.
 
 Features:
-1.Addition, subtraction, multiplication, and division operations
+
+1.Addition, subtraction, multiplication, and division operations.
+
 2.Decimal point support for floating-point numbers
+
 3.Clear and delete functionality for input correction
+
 4.Ability to toggle the sign of the displayed number
+
 5.Exponential operation (added as per the latest modification)
 
 User Interface:
 The user interface consists of the following components:
 
 1.Textfield: Displays the input numbers and the result of calculations.
+
 2.Number Buttons: Allow the user to input numerical digits.
+
 3.Function Buttons: Perform arithmetic operations and other functions.
+
 4.Clear (CLR) Button: Clears the textfield.
+
 5.Delete (DEL) Button: Deletes the last entered digit.
+
 6.Negative (NEG) Button: Toggles the sign of the displayed number.
+
 7.Decimal (DEC) Button: Adds a decimal point to the displayed number.
+
 8.Exponential (EXP) Button: Performs exponentiation.
 
 Code Explanation
