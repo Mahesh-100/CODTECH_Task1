@@ -15,14 +15,19 @@ To run the Calculator program:
 5. Compile the program using the command: 'javac SimpleCalculator.java'
 6. Run the program using the command: 'java SimpleCalculator'
 
+
 3. Code Explanation:
    
 Main Class: SimpleCalculator
+
 The main class Calculator controls the flow of the program. It includes a main method where user interactions are handled using a Scanner object.
+
 Arithmetic Operations:
+
 Each arithmetic operation (addition, subtraction, multiplication, division, exponentiation) is implemented within a switch-case statement. 
 User input is taken for the numbers involved in the operation, and the result is calculated accordingly.
 Quit Option:
+
 The program includes an option to quit, which terminates the program loop when selected by the user.
 
 4.Screenshots
@@ -75,7 +80,7 @@ Features:
 
 4. Ability to toggle the sign of the displayed number
 
-5. Exponential operation (added as per the latest modification)
+
 
 User Interface:
 The user interface consists of the following components:
@@ -94,7 +99,7 @@ The user interface consists of the following components:
 
 7. Decimal (DEC) Button: Adds a decimal point to the displayed number.
 
-8. Exponential (EXP) Button: Performs exponentiation.
+
 
 Code Explanation
 The code is structured into several parts:
