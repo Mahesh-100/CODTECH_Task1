@@ -16,7 +16,7 @@ To run the Calculator program:
 6. Run the program using the command: 'java SimpleCalculator'
 
 
-3. Code Explanation:
+ 3.Code Explanation:
    
 Main Class: SimpleCalculator
 
