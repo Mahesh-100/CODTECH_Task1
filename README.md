@@ -1,5 +1,13 @@
 Documentation for SimpleCalculator.java
 
+Title Codtech IT Solutiion - Task Documentation simple calculator with advance features,which implements a simple calculator with advanced features such as addition, subtraction, multiplication, division,exponentiation, and the option to quit.
+
+Introduction this documantation provides a detailed explanation of the task assigned during the CODTECH IT solutions Intremship program.the task is writing a java program to simple calculator with advanced features such as addition, subtraction, multiplication, division,exponentiation, and the option to quit. this documentation will cover the implementation details, rationale behind the code structure, and insights into the programming techniques utilized.additionally, it will include introduction about the interm D. Mahesh Kumar and his assigned ID, ICOD6731.
+
+Interm Information: Name: D. Mahesh Kumar Interm ID:ICOD6731
+
+Task Description: The Task assigned to B Vagesh datta during the CodTech ITsolution internship program is to write a java program simple calculator with advance features,which implements a simple calculator with advanced features such as addition, subtraction, multiplication, division,exponentiation, and the option to quit
+
 1. Introduction:
    
 The Calculator program is a simple Java application that allows users to perform basic arithmetic operations (addition, subtraction, multiplication, division) as well as exponentiation.
@@ -62,7 +70,8 @@ The program includes an option to quit, which terminates the program loop when s
 The Calculator program provides a simple yet functional tool for performing arithmetic calculations.
 
 With its user-friendly interface and error handling capabilities, it ensures a seamless user experience. Further enhancements could include additional mathematical functions and a more polished user interface.
-<==================================================================>
+
+<=================================================================>
 
 Documentation for Calculator Java Project.
 
