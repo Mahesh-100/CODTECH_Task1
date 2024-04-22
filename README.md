@@ -1,4 +1,4 @@
-Documentation for SimpleCalculator.java
+# Documentation for SimpleCalculator.java
 
 Title Codtech IT Solutiion - Task Documentation simple calculator with advance features,which implements a simple calculator with advanced features such as addition, subtraction, multiplication, division,exponentiation, and the option to quit.
 
@@ -8,12 +8,12 @@ Interm Information: Name: D. Mahesh Kumar Interm ID:ICOD6731
 
 Task Description: The Task assigned to B Vagesh datta during the CodTech ITsolution internship program is to write a java program simple calculator with advance features,which implements a simple calculator with advanced features such as addition, subtraction, multiplication, division,exponentiation, and the option to quit
 
-1. Introduction:
+**1. Introduction:**
    
 The Calculator program is a simple Java application that allows users to perform basic arithmetic operations (addition, subtraction, multiplication, division) as well as exponentiation.
 It provides a user-friendly interface where users can input numbers and select the desired operation. Additionally, the program includes error handling to prevent division by zero.
 
-2. Installation:
+**2. Installation:**
    
 To run the Calculator program:
 1. Ensure you have Java Development Kit (JDK) installed on your system.
@@ -24,7 +24,7 @@ To run the Calculator program:
 6. Run the program using the command: 'java SimpleCalculator'
 
 
- 3.Code Explanation:
+ **3.Code Explanation:**
    
 Main Class: SimpleCalculator
 
@@ -38,7 +38,7 @@ Quit Option:
 
 The program includes an option to quit, which terminates the program loop when selected by the user.
 
-4.Screenshots
+**4.Screenshots**
 
 1.Initial Display:
 
@@ -65,7 +65,7 @@ The program includes an option to quit, which terminates the program loop when s
 
 ![sc4](https://github.com/Mahesh-100/CODTECH_Task1/assets/124244425/27027a65-169c-46e4-80df-f3ecd4085c96)
 
-5. Conclusion:
+**5. Conclusion:**
 
 The Calculator program provides a simple yet functional tool for performing arithmetic calculations.
 
@@ -73,13 +73,13 @@ With its user-friendly interface and error handling capabilities, it ensures a s
 
 <=================================================================>
 
-Documentation for Calculator Java Project.
+# Documentation for Calculator Java Project.
 
-Introduction:
+**Introduction:**
 
 The Calculator program is a basic calculator application implemented in Java using the Swing framework. It provides a user-friendly interface for performing arithmetic calculations.
 
-Features:
+**Features:**
 
 1. Addition, subtraction, multiplication, and division operations.
 
@@ -91,7 +91,7 @@ Features:
 
 
 
-User Interface:
+**User Interface:**
 The user interface consists of the following components:
 
 1. Textfield: Displays the input numbers and the result of calculations.
@@ -110,7 +110,8 @@ The user interface consists of the following components:
 
 
 
-Code Explanation
+**Code Explanation:**
+
 The code is structured into several parts:
 
  Initialization:
@@ -133,12 +134,12 @@ The result of the calculation is displayed in the textfield.
 
 
 
-Screenshots:
+**Screenshots:**
 
 
 ![calc](https://github.com/Mahesh-100/CODTECH_Task1/assets/124244425/fee5f3f6-0b7b-4088-a5bf-282d5b490c32)
 
-Conclusion:
+**Conclusion:**
 
 The Calculator program provides a simple yet effective tool for performing basic arithmetic calculations. With its intuitive user interface and essential features, it serves as a handy utility for everyday mathematical tasks.
 
